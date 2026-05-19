@@ -73,15 +73,8 @@ student-performance-analysis/
 │   └── Student_Performance_Analysis_Dashboard.pbix  # Interactive dashboard
 │
 ├── reports/
-│   ├── Student_Performance_Analysis_Report.docx     # Complete project report
-│   ├── Executive_Summary_Visualizations.png         # 12-panel dashboard
-│   ├── Key_Metrics_Summary.txt                      # Key statistics
-│   ├── Technical_Specifications.md                  # Technical documentation
-│   └── PROJECT_COVER_PAGE.txt                       # Cover page
-│
-└── notebooks/
-    └── analysis_notebook.ipynb                # Jupyter notebook (optional)
-```
+    ├── Student_Performance_Analysis_Report.docx     # Complete project report
+    ├── Executive_Summary_Visualizations.png         # 12-panel dashboard
 
 ---
 
@@ -358,7 +351,7 @@ source("r/Student_Performance_Analysis.R")
 
 **Abhishek Yewale**  
 📧 Email: [abhishekyewale067@gmail.com]  
-🔗 LinkedIn: [www.linkedin.com/in/abhishek-yewale-476276267]  
+🔗 LinkedIn: [www.linkedin.com/in/abhishek-yewale-70]  
 🌐 GitHub: [@AbhiYewale96](https://github.com/AbhiYewale96)  
 📅 Date: 25/02/2025
 
